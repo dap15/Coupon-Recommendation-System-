@@ -4,6 +4,7 @@ This data was collected via a survey on Amazon Mechanical Turk. The survey descr
 
 
 Problem Statement 🔍
+
 Determine the effect of weather on the acceptance of coupons. Which types of coupons are accepted in different weather conditions.
 
 Determine how demographic (age, marital status, number of children and gender) affects the acceptance of coupons. Which coupons are accepted by different demographic groups?
